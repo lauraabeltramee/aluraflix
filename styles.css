@@ -1,6 +1,9 @@
 body {
     color: rgb(109, 6, 137);
     background: white;
+    font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 header {
@@ -12,6 +15,7 @@ header {
 section {
     background: rgb(95 23 29);
     padding-bottom: 80px;
+
     padding-top: 80px;
     display: flex;
     justify-content: center;
